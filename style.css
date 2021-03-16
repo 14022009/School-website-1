@@ -1,0 +1,23 @@
+.hdgtitle    {
+    text-align: center;
+    font-size: 40px;
+    color: ghostwhite;
+}
+.tttitle{
+    color: ghostwhite;
+    font-size: 20px;
+    text-align: center; 
+} 
+.mntitle{
+    color:ghostwhite;
+    font-size: 50px;
+    text-align: center; 
+} 
+body {
+    background-color: black;
+}
+#imgs{
+    width: 60%;
+    height: auto;
+    margin-left: 20%;
+}
